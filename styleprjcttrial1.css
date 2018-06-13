@@ -1,0 +1,26 @@
+
+body {
+   font-family: arial, serif;
+background-color: #b6bcc4;   
+
+
+.navcontain {
+
+     background-color: #A5C9ED;
+     background-color: #A5C9ED;
+     color: #ffffff;
+     list-style: none; 
+     text-align: center;
+     padding : 20px;
+
+           }
+
+ .navcontain li {
+ 	display: inline-block; 
+ 	padding:0 25px 0 25px;
+ }
+
+.navcontain li a {
+	text-decoration: none;
+}
+
